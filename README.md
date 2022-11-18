@@ -4,7 +4,7 @@
 
 ## Image Recognition
 
-Image recognition works by taking a set of images and scanning them, after this the computers try to guess if they are a part of this group of images or not. In this project I took a lot of pictures of a note I was playing, by doing this the camera can see what note your playing and determine if it's in the correct position.
+Image recognition works by taking a set of images and scanning them; after doing this, the computers try to guess if they are a part of this group of images or not. In this project I took a lot of pictures of a note I was playing, by doing this the camera can see what note you are playing and determine if it's in the correct position.
 
 ## Running this project
 
